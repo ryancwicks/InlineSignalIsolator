@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Conn_01x04_Female
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06_Female
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP ISO3082DW
+D 200 kbps, Isolated 5-V Half-Duplex RS-485 transceiver, SOIC-16
+K RS-485
+F http://www.ti.com/lit/ds/symlink/iso3082.pdf
+$ENDCMP
+#
+$CMP ISO3088DW
+D 20 Mbps, Isolated 5-V Half-Duplex RS-485 transceiver, SOIC-16
+K RS-485
+F http://www.ti.com/lit/ds/symlink/iso3082.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SN65LBC176P
+D Differential bus transceiver, DIP-8
+K Differential bus transceiver
+F http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf
+$ENDCMP
+#
+$CMP SN65VHD
+D Differential bus transceiver, DIP-8
+K Differential bus transceiver
+F http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf
+$ENDCMP
+#
+$CMP SN75176AP
+D Differential RS-422/RS-485 bus transceiver, DIP-8
+K Differential bus transceiver
+F http://www.ti.com/lit/ds/symlink/sn75176a.pdf
+$ENDCMP
+#
+$CMP SNJ55LBC176JG
+D Differential bus transceiver, ceramic DIP-8
+K Differential bus transceiver
+F http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf
+$ENDCMP
+#
+#End Doc Library
